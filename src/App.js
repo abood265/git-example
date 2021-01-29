@@ -1,5 +1,6 @@
 import logo from './icon.png';
 import './App.css';
+import Footer from './Components/Footer'
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
          code
         </a>
       </header>
+      <Footer/>
     </div>
   );
 }

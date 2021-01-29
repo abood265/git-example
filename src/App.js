@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         My Facebook account
+         code
         </a>
       </header>
     </div>
